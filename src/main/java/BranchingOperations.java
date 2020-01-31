@@ -11,8 +11,9 @@ public class BranchingOperations {
         else {
             действие(-я), которые выполняются, если условие истинно;
         }*/
-        int i = 10;
- /*           if (i == 1){
+        int i = 11;
+        /*
+            if (i == 1){
                 System.out.println(i + " test1");
             }
             else if (i == 1){
@@ -20,7 +21,7 @@ public class BranchingOperations {
             } else {
                 System.out.println(i + " test3");
             }
-
+*/
         if (i > 1 && i < 29){
             System.out.println(i + " test8");
             if (i == 12){
@@ -34,12 +35,14 @@ public class BranchingOperations {
 
     }
 }
-*/
+/*
         if (i == 5 || i == 10) {
             System.out.println(i + " Test5");
         } else {
             System.out.println(i + " Test10");
         }
+
+
         /*1 % 2 == 0;*/
-    }
-}
+
+
